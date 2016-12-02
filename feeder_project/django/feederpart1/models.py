@@ -48,7 +48,7 @@ class Course(models.Model):
 	##############################################################
 	# f=feedbak(name='form1')
 	# f.save()
-	# q1=Question(text='is sharat chutiya?')
+	# q1=Question(text='Any Question ?')
 	# q1.save()
 	# q2 ...
 	# q2 ...
